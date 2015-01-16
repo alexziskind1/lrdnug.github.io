@@ -10,3 +10,5 @@ Entity Framework is easy to setup and get running, but are you taking advantage 
 
 ### About the Speakers:
 Daniel Pollock is a Senior Developer for the Information Network of Arkansas. He has 8+ years of professional development experience with ASP.NET and other Microsoft Technologies. He has developed web applications using both small and large databases using ADO.Net, NHibernate, Entity Framework, and Dapper. He currently serves as the LRDNUG President and Chair of the Little Rock Tech Fest.
+
+{% include locations/ihub.html %}
